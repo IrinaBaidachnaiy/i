@@ -1,0 +1,3 @@
+﻿  mainPart.cpp
+D:\Программирование\Git\2022-2024_OOP_PA-21-2_19\Lab2\Lab2_OOP\Lab2_OOP\mainPart.cpp(19): warning C4717: operator>>: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  Lab2_OOP.vcxproj -> D:\Программирование\Git\2022-2024_OOP_PA-21-2_19\Lab2\Lab2_OOP\x64\Debug\Lab2_OOP.exe

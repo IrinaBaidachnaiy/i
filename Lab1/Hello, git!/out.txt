@@ -1,0 +1,7 @@
+Sorting by sum of the rows:
+   3   4   5   1   2
+   1   2   3   4   5
+  -4  -5  -1   2   3
+  -2  -3  -4  -5  -1
+
+Amount of GOOD numbers = 12, of NEITHER numbers = 0, of BAD numbers = 8
