@@ -1,0 +1,39 @@
+﻿D:\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (CourseWork_V21.vcxproj, lab3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  SceneController.cpp
+C:\Users\User\Desktop\Лаб 3\lab4\Square.h(15,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3\lab4\Square.h(17,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3\lab4\Square.h(17,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3\lab4\Rectangle.h(18,33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Desktop\Лаб 3\lab4\Rectangle.h(18,26): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Desktop\Лаб 3\lab4\Rectangle.h(20,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3\lab4\Rectangle.h(20,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3\lab4\Rectangle.h(21,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3\lab4\Rectangle.h(21,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3\lab4\Composite.h(18,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3\lab4\Composite.h(19,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3\lab4\SceneController.h(33,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3\lab4\SceneController.h(42,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3\lab4\SceneController.cpp(30,26): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\Desktop\Лаб 3\lab4\SceneController.cpp(50,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3\lab4\SceneController.cpp(62,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3\lab4\SceneController.cpp(78,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3\lab4\SceneController.cpp(105,47): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3\lab4\SceneController.cpp(131,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3\lab4\SceneController.cpp(156,47): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3\lab4\SceneController.cpp(167,45): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3\lab4\SceneController.cpp(200,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3\lab4\SceneController.cpp(219,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3\lab4\SceneController.cpp(237,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3\lab4\SceneController.cpp(257,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3\lab4\SceneController.cpp(275,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3\lab4\SceneController.cpp(283,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3\lab4\SceneController.cpp(319,35): warning C4018: <: несоответствие типов со знаком и без знака
+  lab4.vcxproj -> C:\Users\User\Desktop\Лаб 3\Debug\lab4.exe

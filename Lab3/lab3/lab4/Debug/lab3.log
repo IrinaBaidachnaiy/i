@@ -1,0 +1,62 @@
+﻿D:\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (CourseWork_V21.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  SceneController.cpp
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Square.h(15,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Square.h(17,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Square.h(17,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Rectangle.h(18,33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Rectangle.h(18,26): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Rectangle.h(20,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Rectangle.h(20,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Rectangle.h(21,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Rectangle.h(21,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Composite.h(18,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Composite.h(19,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.h(33,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.h(42,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.cpp(30,26): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.cpp(43,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.cpp(55,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.cpp(71,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.cpp(98,47): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.cpp(124,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.cpp(149,47): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.cpp(160,45): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.cpp(192,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.cpp(210,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.cpp(230,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.cpp(248,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.cpp(256,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.cpp(292,35): warning C4018: <: несоответствие типов со знаком и без знака
+  lab3.cpp
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Square.h(15,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Square.h(17,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Square.h(17,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Rectangle.h(18,33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Rectangle.h(18,26): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Rectangle.h(20,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Rectangle.h(20,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Rectangle.h(21,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Rectangle.h(21,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Composite.h(18,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\Composite.h(19,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.h(33,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\SceneController.h(42,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Лаб 3 Близно\lab3\lab3.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  lab3.vcxproj -> C:\Users\User\Desktop\Лаб 3 Близно\Debug\lab3.exe
